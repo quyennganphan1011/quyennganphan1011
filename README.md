@@ -32,16 +32,28 @@
 
 ###
 
+###
+
+
+
 <h3 align="left">Embedded Systems, OS & Hardware</h3>
+
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="40" alt="Qt Logo" />
-  &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Gazebo_logo_2014.svg" height="40" alt="Gazebo Logo" />
-  &nbsp;&nbsp;&nbsp;
 
-  <img src="https://raw.githubusercontent.com/PX4/PX4-Autopilot/main/Tools/images/px4_logo_flat.png" height="40" alt="PX4 Logo" />
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="40" alt="c logo"  />
 
-  <img src="https://avatars.githubusercontent.com/u/12671752?s=200&v=4" height="40" alt="QGroundControl Logo" />
+  <img width="12" />
+
+  <img src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png" height="40" alt="csharp logo"  />
+
+  <img width="12" />
+
+  <img src="https://raw.githubusercontent.com/PX4/PX4-Autopilot/main/Tools/images/px4_logo_flat.png" height="40" alt="bash logo"  />
+
+  <img width="12" />
+
+  <img src="https://docs.qgroundcontrol.com/master/assets/qgc-logo-300-300.png" height="40" alt="python logo"  />
+
 </div>
 
 ###
