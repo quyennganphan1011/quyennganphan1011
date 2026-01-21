@@ -36,11 +36,11 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://gazebosim.org/assets/logos/gazebo_vert_pos-b49ce779.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://raw.githubusercontent.com/PX4/PX4-Autopilot/main/Tools/images/px4_logo_flat.png" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://docs.qgroundcontrol.com/master/assets/qgc-logo-300-300.png" height="40" alt="python logo"  />
 </div>
 
 ###
