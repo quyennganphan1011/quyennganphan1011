@@ -48,11 +48,11 @@
 
   <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/PX4/PX4-Autopilot/main/Tools/images/px4_logo_flat.png" height="40" alt="bash logo"  />
+  <img src="https://docs.px4.io/main/assets/logo_pro_small.CrpV43uy.png" height="40" alt="bash logo"  />
 
   <img width="12" />
 
-  <img src="https://docs.qgroundcontrol.com/master/assets/qgc-logo-300-300.png" height="40" alt="python logo"  />
+  <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/e0/3b/f8/e03bf806-d654-1c41-40be-3c7fef190577/source/512x512bb.jpg" height="40" alt="python logo"  />
 
 </div>
 
