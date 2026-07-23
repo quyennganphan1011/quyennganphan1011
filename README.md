@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ngan Phan😉</h1>
+<h1 align="center">Hi there, I'm Audrey Nguyen</h1>
 
 ###
 
